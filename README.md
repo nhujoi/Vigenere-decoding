@@ -1,4 +1,4 @@
-# 📄 Báo cáo Kỹ thuật: Giải mã Vigenère Tự động
+# 📄 Giải mã Vigenère Tự động
 
 ## 1. Tổng quan
 Script `Vigene.py` là một công cụ thám mã (cryptanalysis) tự động dành cho mật mã Vigenère. Chương trình có khả năng khôi phục văn bản gốc từ văn bản mã hóa (ciphertext) mà **không cần biết trước từ khóa (Key)**.
